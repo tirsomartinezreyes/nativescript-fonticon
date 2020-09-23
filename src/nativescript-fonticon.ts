@@ -1,4 +1,4 @@
-import {knownFolders} from '@nativescript/core';
+import {knownFolders} from "tns-core-modules/file-system"
 import * as lib from './lib';
 
 export class TNSFontIcon {
